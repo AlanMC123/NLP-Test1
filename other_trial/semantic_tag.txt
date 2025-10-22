@@ -1,0 +1,1087 @@
+=== 句子1：The Blue book is on the table. ===
+[
+  [
+    {
+      "id": 1,
+      "text": "The",
+      "lemma": "the",
+      "upos": "DET",
+      "xpos": "DT",
+      "feats": "Definite=Def|PronType=Art",
+      "head": 3,
+      "deprel": "det",
+      "start_char": 0,
+      "end_char": 3,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Blue",
+      "lemma": "Blue",
+      "upos": "ADJ",
+      "xpos": "JJ",
+      "feats": "Degree=Pos",
+      "head": 3,
+      "deprel": "amod",
+      "start_char": 4,
+      "end_char": 8,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "book",
+      "lemma": "book",
+      "upos": "NOUN",
+      "xpos": "NN",
+      "feats": "Number=Sing",
+      "head": 7,
+      "deprel": "nsubj",
+      "start_char": 9,
+      "end_char": 13,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "is",
+      "lemma": "be",
+      "upos": "AUX",
+      "xpos": "VBZ",
+      "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin",
+      "head": 7,
+      "deprel": "cop",
+      "start_char": 14,
+      "end_char": 16,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "on",
+      "lemma": "on",
+      "upos": "ADP",
+      "xpos": "IN",
+      "head": 7,
+      "deprel": "case",
+      "start_char": 17,
+      "end_char": 19,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "the",
+      "lemma": "the",
+      "upos": "DET",
+      "xpos": "DT",
+      "feats": "Definite=Def|PronType=Art",
+      "head": 7,
+      "deprel": "det",
+      "start_char": 20,
+      "end_char": 23,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "table",
+      "lemma": "table",
+      "upos": "NOUN",
+      "xpos": "NN",
+      "feats": "Number=Sing",
+      "head": 0,
+      "deprel": "root",
+      "start_char": 24,
+      "end_char": 29,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ],
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 8,
+      "text": ".",
+      "lemma": ".",
+      "upos": "PUNCT",
+      "xpos": ".",
+      "head": 7,
+      "deprel": "punct",
+      "start_char": 29,
+      "end_char": 30,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ],
+      "misc": "SpaceAfter=No"
+    }
+  ]
+]
+
+=== 句子2：There is a man strolling in the Lincoln Park. ===
+[
+  [
+    {
+      "id": 1,
+      "text": "There",
+      "lemma": "there",
+      "upos": "PRON",
+      "xpos": "EX",
+      "head": 2,
+      "deprel": "expl",
+      "start_char": 0,
+      "end_char": 5,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "is",
+      "lemma": "be",
+      "upos": "VERB",
+      "xpos": "VBZ",
+      "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin",
+      "head": 0,
+      "deprel": "root",
+      "start_char": 6,
+      "end_char": 8,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "a",
+      "lemma": "a",
+      "upos": "DET",
+      "xpos": "DT",
+      "feats": "Definite=Ind|PronType=Art",
+      "head": 4,
+      "deprel": "det",
+      "start_char": 9,
+      "end_char": 10,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "man",
+      "lemma": "man",
+      "upos": "NOUN",
+      "xpos": "NN",
+      "feats": "Number=Sing",
+      "head": 2,
+      "deprel": "nsubj",
+      "start_char": 11,
+      "end_char": 14,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "strolling",
+      "lemma": "stroll",
+      "upos": "VERB",
+      "xpos": "VBG",
+      "feats": "VerbForm=Ger",
+      "head": 4,
+      "deprel": "acl",
+      "start_char": 15,
+      "end_char": 24,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "in",
+      "lemma": "in",
+      "upos": "ADP",
+      "xpos": "IN",
+      "head": 9,
+      "deprel": "case",
+      "start_char": 25,
+      "end_char": 27,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "the",
+      "lemma": "the",
+      "upos": "DET",
+      "xpos": "DT",
+      "feats": "Definite=Def|PronType=Art",
+      "head": 9,
+      "deprel": "det",
+      "start_char": 28,
+      "end_char": 31,
+      "ner": "B-FAC",
+      "multi_ner": [
+        "B-FAC"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Lincoln",
+      "lemma": "Lincoln",
+      "upos": "PROPN",
+      "xpos": "NNP",
+      "feats": "Number=Sing",
+      "head": 9,
+      "deprel": "compound",
+      "start_char": 32,
+      "end_char": 39,
+      "ner": "I-FAC",
+      "multi_ner": [
+        "I-FAC"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Park",
+      "lemma": "Park",
+      "upos": "PROPN",
+      "xpos": "NNP",
+      "feats": "Number=Sing",
+      "head": 5,
+      "deprel": "obl",
+      "start_char": 40,
+      "end_char": 44,
+      "ner": "E-FAC",
+      "multi_ner": [
+        "E-FAC"
+      ],
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 10,
+      "text": ".",
+      "lemma": ".",
+      "upos": "PUNCT",
+      "xpos": ".",
+      "head": 2,
+      "deprel": "punct",
+      "start_char": 44,
+      "end_char": 45,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ],
+      "misc": "SpaceAfter=No"
+    }
+  ]
+]
+
+=== 句子3：Whenever I get stressed, I often snack on chocolates. ===
+[
+  [
+    {
+      "id": 1,
+      "text": "Whenever",
+      "lemma": "whenever",
+      "upos": "ADV",
+      "xpos": "WRB",
+      "feats": "PronType=Rel",
+      "head": 8,
+      "deprel": "advmod",
+      "start_char": 0,
+      "end_char": 8,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "I",
+      "lemma": "I",
+      "upos": "PRON",
+      "xpos": "PRP",
+      "feats": "Case=Nom|Number=Sing|Person=1|PronType=Prs",
+      "head": 4,
+      "deprel": "nsubj:pass",
+      "start_char": 9,
+      "end_char": 10,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "get",
+      "lemma": "get",
+      "upos": "AUX",
+      "xpos": "VBP",
+      "feats": "Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin",
+      "head": 4,
+      "deprel": "aux:pass",
+      "start_char": 11,
+      "end_char": 14,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "stressed",
+      "lemma": "stress",
+      "upos": "VERB",
+      "xpos": "VBN",
+      "feats": "Tense=Past|VerbForm=Part|Voice=Pass",
+      "head": 1,
+      "deprel": "advcl:relcl",
+      "start_char": 15,
+      "end_char": 23,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ],
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 5,
+      "text": ",",
+      "lemma": ",",
+      "upos": "PUNCT",
+      "xpos": ",",
+      "head": 1,
+      "deprel": "punct",
+      "start_char": 23,
+      "end_char": 24,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "I",
+      "lemma": "I",
+      "upos": "PRON",
+      "xpos": "PRP",
+      "feats": "Case=Nom|Number=Sing|Person=1|PronType=Prs",
+      "head": 8,
+      "deprel": "nsubj",
+      "start_char": 25,
+      "end_char": 26,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "often",
+      "lemma": "often",
+      "upos": "ADV",
+      "xpos": "RB",
+      "head": 8,
+      "deprel": "advmod",
+      "start_char": 27,
+      "end_char": 32,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "snack",
+      "lemma": "snack",
+      "upos": "VERB",
+      "xpos": "VBP",
+      "feats": "Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin",
+      "head": 0,
+      "deprel": "root",
+      "start_char": 33,
+      "end_char": 38,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "on",
+      "lemma": "on",
+      "upos": "ADP",
+      "xpos": "IN",
+      "head": 10,
+      "deprel": "case",
+      "start_char": 39,
+      "end_char": 41,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "chocolates",
+      "lemma": "chocolate",
+      "upos": "NOUN",
+      "xpos": "NNS",
+      "feats": "Number=Plur",
+      "head": 8,
+      "deprel": "obl",
+      "start_char": 42,
+      "end_char": 52,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ],
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 11,
+      "text": ".",
+      "lemma": ".",
+      "upos": "PUNCT",
+      "xpos": ".",
+      "head": 8,
+      "deprel": "punct",
+      "start_char": 52,
+      "end_char": 53,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ],
+      "misc": "SpaceAfter=No"
+    }
+  ]
+]
+
+=== 句子4：He will never know the fact that his sister was a thief in 1993. ===
+[
+  [
+    {
+      "id": 1,
+      "text": "He",
+      "lemma": "he",
+      "upos": "PRON",
+      "xpos": "PRP",
+      "feats": "Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs",
+      "head": 4,
+      "deprel": "nsubj",
+      "start_char": 0,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "will",
+      "lemma": "will",
+      "upos": "AUX",
+      "xpos": "MD",
+      "feats": "VerbForm=Fin",
+      "head": 4,
+      "deprel": "aux",
+      "start_char": 3,
+      "end_char": 7,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "never",
+      "lemma": "never",
+      "upos": "ADV",
+      "xpos": "RB",
+      "feats": "PronType=Neg",
+      "head": 4,
+      "deprel": "advmod",
+      "start_char": 8,
+      "end_char": 13,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "know",
+      "lemma": "know",
+      "upos": "VERB",
+      "xpos": "VB",
+      "feats": "VerbForm=Inf",
+      "head": 0,
+      "deprel": "root",
+      "start_char": 14,
+      "end_char": 18,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "the",
+      "lemma": "the",
+      "upos": "DET",
+      "xpos": "DT",
+      "feats": "Definite=Def|PronType=Art",
+      "head": 6,
+      "deprel": "det",
+      "start_char": 19,
+      "end_char": 22,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "fact",
+      "lemma": "fact",
+      "upos": "NOUN",
+      "xpos": "NN",
+      "feats": "Number=Sing",
+      "head": 4,
+      "deprel": "obj",
+      "start_char": 23,
+      "end_char": 27,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "that",
+      "lemma": "that",
+      "upos": "SCONJ",
+      "xpos": "IN",
+      "head": 12,
+      "deprel": "mark",
+      "start_char": 28,
+      "end_char": 32,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "his",
+      "lemma": "his",
+      "upos": "PRON",
+      "xpos": "PRP$",
+      "feats": "Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs",
+      "head": 9,
+      "deprel": "nmod:poss",
+      "start_char": 33,
+      "end_char": 36,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "sister",
+      "lemma": "sister",
+      "upos": "NOUN",
+      "xpos": "NN",
+      "feats": "Number=Sing",
+      "head": 12,
+      "deprel": "nsubj",
+      "start_char": 37,
+      "end_char": 43,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "was",
+      "lemma": "be",
+      "upos": "AUX",
+      "xpos": "VBD",
+      "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin",
+      "head": 12,
+      "deprel": "cop",
+      "start_char": 44,
+      "end_char": 47,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "a",
+      "lemma": "a",
+      "upos": "DET",
+      "xpos": "DT",
+      "feats": "Definite=Ind|PronType=Art",
+      "head": 12,
+      "deprel": "det",
+      "start_char": 48,
+      "end_char": 49,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "thief",
+      "lemma": "thief",
+      "upos": "NOUN",
+      "xpos": "NN",
+      "feats": "Number=Sing",
+      "head": 6,
+      "deprel": "acl",
+      "start_char": 50,
+      "end_char": 55,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "in",
+      "lemma": "in",
+      "upos": "ADP",
+      "xpos": "IN",
+      "head": 14,
+      "deprel": "case",
+      "start_char": 56,
+      "end_char": 58,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "1993",
+      "lemma": "1993",
+      "upos": "NUM",
+      "xpos": "CD",
+      "feats": "NumForm=Digit|NumType=Card",
+      "head": 12,
+      "deprel": "obl",
+      "start_char": 59,
+      "end_char": 63,
+      "ner": "S-DATE",
+      "multi_ner": [
+        "S-DATE"
+      ],
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 15,
+      "text": ".",
+      "lemma": ".",
+      "upos": "PUNCT",
+      "xpos": ".",
+      "head": 4,
+      "deprel": "punct",
+      "start_char": 63,
+      "end_char": 64,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ],
+      "misc": "SpaceAfter=No"
+    }
+  ]
+]
+
+=== 句子5：It is possible that there will be a traffic jam tonight. ===
+[
+  [
+    {
+      "id": 1,
+      "text": "It",
+      "lemma": "it",
+      "upos": "PRON",
+      "xpos": "PRP",
+      "feats": "Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs",
+      "head": 3,
+      "deprel": "expl",
+      "start_char": 0,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "is",
+      "lemma": "be",
+      "upos": "AUX",
+      "xpos": "VBZ",
+      "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin",
+      "head": 3,
+      "deprel": "cop",
+      "start_char": 3,
+      "end_char": 5,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "possible",
+      "lemma": "possible",
+      "upos": "ADJ",
+      "xpos": "JJ",
+      "feats": "Degree=Pos",
+      "head": 0,
+      "deprel": "root",
+      "start_char": 6,
+      "end_char": 14,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "that",
+      "lemma": "that",
+      "upos": "SCONJ",
+      "xpos": "IN",
+      "head": 7,
+      "deprel": "mark",
+      "start_char": 15,
+      "end_char": 19,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "there",
+      "lemma": "there",
+      "upos": "PRON",
+      "xpos": "EX",
+      "head": 7,
+      "deprel": "expl",
+      "start_char": 20,
+      "end_char": 25,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "will",
+      "lemma": "will",
+      "upos": "AUX",
+      "xpos": "MD",
+      "feats": "VerbForm=Fin",
+      "head": 7,
+      "deprel": "aux",
+      "start_char": 26,
+      "end_char": 30,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "be",
+      "lemma": "be",
+      "upos": "VERB",
+      "xpos": "VB",
+      "feats": "VerbForm=Inf",
+      "head": 3,
+      "deprel": "csubj",
+      "start_char": 31,
+      "end_char": 33,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "a",
+      "lemma": "a",
+      "upos": "DET",
+      "xpos": "DT",
+      "feats": "Definite=Ind|PronType=Art",
+      "head": 10,
+      "deprel": "det",
+      "start_char": 34,
+      "end_char": 35,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "traffic",
+      "lemma": "traffic",
+      "upos": "NOUN",
+      "xpos": "NN",
+      "feats": "Number=Sing",
+      "head": 10,
+      "deprel": "compound",
+      "start_char": 36,
+      "end_char": 43,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "jam",
+      "lemma": "jam",
+      "upos": "NOUN",
+      "xpos": "NN",
+      "feats": "Number=Sing",
+      "head": 7,
+      "deprel": "nsubj",
+      "start_char": 44,
+      "end_char": 47,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "tonight",
+      "lemma": "tonight",
+      "upos": "NOUN",
+      "xpos": "NN",
+      "feats": "Number=Sing",
+      "head": 7,
+      "deprel": "obl:unmarked",
+      "start_char": 48,
+      "end_char": 55,
+      "ner": "S-TIME",
+      "multi_ner": [
+        "S-TIME"
+      ],
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 12,
+      "text": ".",
+      "lemma": ".",
+      "upos": "PUNCT",
+      "xpos": ".",
+      "head": 3,
+      "deprel": "punct",
+      "start_char": 55,
+      "end_char": 56,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ],
+      "misc": "SpaceAfter=No"
+    }
+  ]
+]
+
+=== 句子6：Only by doing this can you save your company. ===
+[
+  [
+    {
+      "id": 1,
+      "text": "Only",
+      "lemma": "only",
+      "upos": "ADV",
+      "xpos": "RB",
+      "head": 7,
+      "deprel": "advmod",
+      "start_char": 0,
+      "end_char": 4,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "by",
+      "lemma": "by",
+      "upos": "SCONJ",
+      "xpos": "IN",
+      "head": 3,
+      "deprel": "mark",
+      "start_char": 5,
+      "end_char": 7,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "doing",
+      "lemma": "do",
+      "upos": "VERB",
+      "xpos": "VBG",
+      "feats": "Tense=Pres|VerbForm=Part",
+      "head": 7,
+      "deprel": "advcl",
+      "start_char": 8,
+      "end_char": 13,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "this",
+      "lemma": "this",
+      "upos": "PRON",
+      "xpos": "DT",
+      "feats": "Number=Sing|PronType=Dem",
+      "head": 3,
+      "deprel": "obj",
+      "start_char": 14,
+      "end_char": 18,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "can",
+      "lemma": "can",
+      "upos": "AUX",
+      "xpos": "MD",
+      "feats": "VerbForm=Fin",
+      "head": 7,
+      "deprel": "aux",
+      "start_char": 19,
+      "end_char": 22,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "you",
+      "lemma": "you",
+      "upos": "PRON",
+      "xpos": "PRP",
+      "feats": "Case=Nom|Person=2|PronType=Prs",
+      "head": 7,
+      "deprel": "nsubj",
+      "start_char": 23,
+      "end_char": 26,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "save",
+      "lemma": "save",
+      "upos": "VERB",
+      "xpos": "VB",
+      "feats": "VerbForm=Inf",
+      "head": 0,
+      "deprel": "root",
+      "start_char": 27,
+      "end_char": 31,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "your",
+      "lemma": "your",
+      "upos": "PRON",
+      "xpos": "PRP$",
+      "feats": "Case=Gen|Person=2|Poss=Yes|PronType=Prs",
+      "head": 9,
+      "deprel": "nmod:poss",
+      "start_char": 32,
+      "end_char": 36,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "company",
+      "lemma": "company",
+      "upos": "NOUN",
+      "xpos": "NN",
+      "feats": "Number=Sing",
+      "head": 7,
+      "deprel": "obj",
+      "start_char": 37,
+      "end_char": 44,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ],
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 10,
+      "text": ".",
+      "lemma": ".",
+      "upos": "PUNCT",
+      "xpos": ".",
+      "head": 7,
+      "deprel": "punct",
+      "start_char": 44,
+      "end_char": 45,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ],
+      "misc": "SpaceAfter=No"
+    }
+  ]
+]
+

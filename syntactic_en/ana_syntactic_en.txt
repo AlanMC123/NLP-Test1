@@ -1,0 +1,40 @@
+Sentence: When lawyer Cui Chen recalled his first pet - related case , his tone turned reflective .
+Tokens: When lawyer Cui Chen recalled his first pet - related case , his tone turned reflective .
+POS: WRB NN NNP NNP VBD PRP$ JJ NN HYPH VBN NN , PRP$ NN VBD JJ .
+Dependency: [(0, 'ROOT', 15), (5, 'advmod', 1), (4, 'compound', 2), (4, 'compound', 3), (5, 'nsubj', 4), (15, 'advcl', 5), (11, 'nmod:poss', 6), (11, 'amod', 7), (10, 'obl', 8), (10, 'punct', 9), (11, 'amod', 10), (5, 'obj', 11), (15, 'punct', 12), (14, 'nmod:poss', 13), (15, 'nsubj', 14), (15, 'xcomp', 16), (15, 'punct', 17)]
+
+Sentence: It was February this year , and the dispute involved a client who had entrusted two cats , a mother and her offspring , to a pet sitter found on the social media app Xiaohongshu , or RedNote .
+Tokens: It was February this year , and the dispute involved a client who had entrusted two cats , a mother and her offspring , to a pet sitter found on the social media app Xiaohongshu , or RedNote .
+POS: PRP VBD NNP DT NN , CC DT NN VBD DT NN WP VBD VBN CD NNS , DT NN CC PRP$ NN , IN DT NN NN VBN IN DT JJ NN NN NNP , CC NNP .
+Dependency: [(0, 'ROOT', 3), (3, 'nsubj', 1), (3, 'cop', 2), (5, 'det', 4), (3, 'obl:tmod', 5), (3, 'punct', 6), (9, 'cc', 7), (9, 'det', 8), (3, 'conj', 9), (9, 'acl', 10), (12, 'det', 11), (10, 'obj', 12), (15, 'nsubj', 13), (15, 'aux', 14), (12, 'acl:relcl', 15), (17, 'nummod', 16), (15, 'obj', 17), (17, 'punct', 18), (20, 'det', 19), (17, 'appos', 20), (23, 'cc', 21), (23, 'nmod:poss', 22), (20, 'conj', 23), (15, 'punct', 24), (28, 'case', 25), (28, 'det', 26), (28, 'compound', 27), (15, 'obl', 28), (28, 'acl', 29), (35, 'case', 30), (35, 'det', 31), (33, 'amod', 32), (34, 'compound', 33), (35, 'compound', 34), (29, 'obl', 35), (35, 'punct', 36), (38, 'cc', 37), (35, 'conj', 38), (3, 'punct', 39)]
+
+Sentence: Just three days into the boarding period , both cats fell from a 19th floor and died .
+Tokens: Just three days into the boarding period , both cats fell from a 19th floor and died .
+POS: RB CD NNS IN DT NN NN , CC NNS VBD IN DT JJ NN CC VBD .
+Dependency: [(0, 'ROOT', 11), (2, 'advmod', 1), (3, 'nummod', 2), (11, 'obl:tmod', 3), (7, 'case', 4), (7, 'det', 5), (7, 'compound', 6), (3, 'nmod', 7), (11, 'punct', 8), (10, 'dep', 9), (11, 'nsubj', 10), (15, 'case', 12), (15, 'det', 13), (15, 'amod', 14), (11, 'obl', 15), (17, 'cc', 16), (11, 'conj', 17), (11, 'punct', 18)]
+
+Sentence: " The emotional toll on the owner was immense .
+Tokens: " The emotional toll on the owner was immense .
+POS: `` DT JJ NN IN DT NN VBD JJ .
+Dependency: [(0, 'ROOT', 9), (9, 'punct', 1), (4, 'det', 2), (4, 'amod', 3), (9, 'nsubj', 4), (7, 'case', 5), (7, 'det', 6), (4, 'nmod', 7), (9, 'cop', 8), (9, 'punct', 10)]
+
+Sentence: Those cats had been with him since they were kittens .
+Tokens: Those cats had been with him since they were kittens .
+POS: DT NNS VBD VBN IN PRP IN PRP VBD NNS .
+Dependency: [(0, 'ROOT', 6), (2, 'det', 1), (6, 'nsubj', 2), (6, 'aux', 3), (6, 'cop', 4), (6, 'case', 5), (10, 'mark', 7), (10, 'nsubj', 8), (10, 'cop', 9), (6, 'advcl', 10), (6, 'punct', 11)]
+
+Sentence: He was devastated , " Cui said .
+Tokens: He was devastated , " Cui said .
+POS: PRP VBD VBN , `` NNP VBD .
+Dependency: [(0, 'ROOT', 3), (3, 'nsubj:pass', 1), (3, 'aux:pass', 2), (3, 'punct', 4), (3, 'punct', 5), (7, 'nsubj', 6), (3, 'ccomp', 7), (3, 'punct', 8)]
+
+Sentence: The case never made it to court .
+Tokens: The case never made it to court .
+POS: DT NN RB VBD PRP IN NN .
+Dependency: [(0, 'ROOT', 4), (2, 'det', 1), (4, 'nsubj', 2), (4, 'advmod', 3), (4, 'obj', 5), (7, 'case', 6), (4, 'obl', 7), (4, 'punct', 8)]
+
+Sentence: Instead , Cui helped negotiate a settlement worth a few thousand yuan , paid out in small monthly installments by the sitter , a recent university graduate who claimed financial hardship .
+Tokens: Instead , Cui helped negotiate a settlement worth a few thousand yuan , paid out in small monthly installments by the sitter , a recent university graduate who claimed financial hardship .
+POS: RB , NNP VBD VB DT NN NN DT JJ CD NN , VBN RP IN JJ JJ NNS IN DT NN , DT JJ NN NN WP VBD JJ NN .
+Dependency: [(0, 'ROOT', 4), (4, 'advmod', 1), (4, 'punct', 2), (4, 'nsubj', 3), (4, 'xcomp', 5), (7, 'det', 6), (5, 'obj', 7), (7, 'dep', 8), (11, 'advmod', 9), (11, 'advmod', 10), (12, 'nummod', 11), (8, 'dep', 12), (8, 'punct', 13), (8, 'acl', 14), (14, 'compound:prt', 15), (19, 'case', 16), (19, 'amod', 17), (19, 'amod', 18), (14, 'obl', 19), (22, 'case', 20), (22, 'det', 21), (14, 'obl', 22), (8, 'punct', 23), (27, 'det', 24), (27, 'amod', 25), (27, 'compound', 26), (8, 'appos', 27), (29, 'nsubj', 28), (27, 'acl:relcl', 29), (31, 'amod', 30), (29, 'obj', 31), (4, 'punct', 32)]
+
